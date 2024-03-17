@@ -1,5 +1,7 @@
 public class UsdConverter {
-    void convert() {
-        //
+    void calculate() {
+        /*
+        Здесь будет мой код
+         */
     }
 }
