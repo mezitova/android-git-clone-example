@@ -3,6 +3,7 @@ public class UsdConverter {
 
     void calculate() {
         /*
+        Здрасьте!
         Здесь будет мой код
          */
     }
